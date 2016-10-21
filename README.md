@@ -3,7 +3,7 @@ I just want to mess around with GitHub since the Internet is down today
 
 <html>
 <body>
-<font color="FF5733">1</font>
+<font color="#FF5733">1</font>
 <font color="blue">2</font>
 <font color="gray">3</font>
 <font color="#008080">4</font>
